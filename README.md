@@ -2,13 +2,13 @@
 ## the easily duplicatable entryway to thepegleg
 # About
 One of the main goals for thepegleg project is to be virtually unblockable. This repo makes it even easier than it was before create new pegleg access point. <br>
-<img src="https://as2.ftcdn.net/v2/jpg/02/25/28/73/1000_F_225287352_WWD6MopDdrNAaB1IkxmkkPESXeygXf5t.jpg" width=100 height=auto><br>
+<img src="https://as2.ftcdn.net/v2/jpg/02/25/28/73/1000_F_225287352_WWD6MopDdrNAaB1IkxmkkPESXeygXf5t.jpg" width=100 height=auto/><br>
 ^ hydra fr fr
 ## other notes
 All files work offline, and as one file so if you want to look at them, download and open
 #  How to use
-### 1. Fork
-      - Fork the repo
+### 1. Click "Use this template", and then "Create new repository"
+<img src="https://docs.github.com/assets/cb-76823/mw-1440/images/help/repository/use-this-template-button.webp" width=400 height=auto /><br>
 ### 2. Change file name
       - Rename the .html file of your choice to index.html
 ### 3. Turn on github pages

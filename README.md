@@ -1,5 +1,9 @@
 # The Plank
 ## the easily duplicatable entryway to thepegleg
+# About
+One of the main goals for thepegleg project is to be virtually unblockable. This repo makes it even easier than it was before create new pegleg access point. <br>
+<img src="https://as2.ftcdn.net/v2/jpg/02/25/28/73/1000_F_225287352_WWD6MopDdrNAaB1IkxmkkPESXeygXf5t.jpg" width=100 height=auto><br>
+^ us fr fr
 #  How to use
 ### 1. Fork
       - Fork the repo

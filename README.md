@@ -4,6 +4,8 @@
 One of the main goals for thepegleg project is to be virtually unblockable. This repo makes it even easier than it was before create new pegleg access point. <br>
 <img src="https://as2.ftcdn.net/v2/jpg/02/25/28/73/1000_F_225287352_WWD6MopDdrNAaB1IkxmkkPESXeygXf5t.jpg" width=100 height=auto><br>
 ^ hydra fr fr
+## other notes
+All files work offline, and as one file so if you want to look at them, download and open
 #  How to use
 ### 1. Fork
       - Fork the repo
